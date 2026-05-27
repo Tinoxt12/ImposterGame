@@ -1,0 +1,9 @@
+Place the chosen logo image file in this project's `public/` folder and name it `logo.png`.
+
+I selected the bottom crest from your attachment as the game's emblem. Save the image as:
+
+  public/logo.png
+
+When you run the dev server, the header will load that file as the app logo and the UI color palette will use gold and deep-red accents to match the emblem.
+
+If you want me to embed or resize the image for you, upload the specific file and I can add a processed copy to `public/logo.png`.
